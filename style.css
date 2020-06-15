@@ -1,0 +1,37 @@
+
+body{
+    background-image: linear-gradient(to right,#00F490, #00BBC9);
+    font-family: 'Open Sans', sas-serif;
+}
+
+.jumbotron{
+    background-color: rgba(128, 0, 128, 0);
+    font-family:'Open Sans', sas-serif;
+    
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.285);
+}
+
+h2{
+    text-align: center;
+}
+
+
+.lead{
+    font-size: xx-large;
+}
+
+.btn-outline-light{
+    color: white;
+}
+
+.btn-outline-light:hover{
+    color: black;
+}
+
+/* 
+font-family: 'Abril Fatface', cursive;
+font-family: 'Open Sans', sas-serif; */
